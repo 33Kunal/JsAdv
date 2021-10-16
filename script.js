@@ -9,3 +9,24 @@ if (avgdolphins > avgkoalas) {
 } else {
   console.log(`avgkoalas are winner`);
 }
+
+// 17 oct -- template string
+
+const marksHeight = 1.69;
+const marksWeight = 78;
+const johnsWeight = 95;
+const johnsHeight = 1.88;
+
+const BMImark = marksWeight / marksHeight ** 2;
+const BMIjohn = johnsWeight / johnsHeight ** 2;
+
+console.log(BMImark);
+console.log(BMIjohn);
+
+if (BMIjohn > BMImark) {
+  console.log(`John's BMI (${BMIjohn}) is higher than Mark's (${BMImark})!`);
+} else {
+  console.log(
+    ` "Mark's BMI (${BMImark}) is higher than John's (${BMIjohn}) !"`
+  );
+}
