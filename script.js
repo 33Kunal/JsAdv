@@ -67,8 +67,7 @@ lastName = 'Schmedtmann';
 console.log(lastName);
 
 ////////////////////////////////////
-// Basic Operators
-// Math operators
+// Basic Operator
 const now = 2037;
 const ageJonas = now - 1991;
 const ageSarah = now - 2018;
@@ -99,7 +98,7 @@ const isFullAge = ageSarah >= 18;
 console.log(now - 1991 > now - 2018);
 
 
-// Operator Precedence
+// Operator Precedence and bit overloading
 const now = 2037;
 const ageJonas = now - 1991;
 const ageSarah = now - 2018;
