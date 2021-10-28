@@ -209,15 +209,14 @@ console.log(jonasNew);
 
 console.log(`Just a regular string...`);
 
-console.log("String with \n\
-multiple \n\
+console.log("String with 
+multiple 
 lines");
 
 console.log(`String
 multiple
 lines`);
 
-////////////////////////////////////
 // Taking Decisions: if / else Statements
 const age = 15;
 
