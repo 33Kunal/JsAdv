@@ -217,7 +217,7 @@ console.log(`String
 multiple
 lines`);
 
-// Taking Decisions: if / else Statements
+// Taking Decisions: if 
 const age = 15;
 
 if (age >= 18) {
