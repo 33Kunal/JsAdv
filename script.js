@@ -193,7 +193,7 @@ const markHigherBMI = BMIMark > BMIJohn;
 
 console.log(BMIMark, BMIJohn, markHigherBMI);
 
-////////////////////////////////////
+
 // Strings and Template Literals
 const firstName = "Jonas";
 const job = "teacher";
