@@ -208,7 +208,7 @@ console.log(`String
 multiple
 lines`);
 
-// Taking Decisions: if and else
+// Taking Decisions: if
 const age = 15;
 
 if (age >= 18) {
@@ -245,8 +245,7 @@ let n = '1' + 1; // '11'
 n = n - 1;
 console.log(n);
 
-////////////////////////////////////
-// Truthy and Falsy Values
+// Truthy and Falsy values included
 
 // 5 falsy values: 0, '', undefined, null, NaN
 console.log(Boolean(0));
