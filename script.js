@@ -302,7 +302,7 @@ console.log(!hasDriversLicense);
 
 
 
-const isTired = false; // C
+const isTired = false; 
 console.log(hasDriversLicense && hasGoodVision && isTired);
 
 if (hasDriversLicense && hasGoodVision && !isTired) {
