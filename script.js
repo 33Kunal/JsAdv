@@ -294,7 +294,7 @@ if (favourite !== 23) console.log('Why not 23?');
 
 // Logical Operators
 const hasDriversLicense = true; // A
-const hasGoodVision = true; // B
+const hasGoodVision = true; 
 
 console.log(hasDriversLicense && hasGoodVision);
 console.log(hasDriversLicense || hasGoodVision);
