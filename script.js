@@ -245,7 +245,7 @@ let n = '1' + 1;
 n = n - 1;
 console.log(n);
 
-// Truthy and Falsy values included
+// 6th dec
 
 
 console.log(Boolean(0));
