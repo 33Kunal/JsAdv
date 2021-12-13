@@ -268,7 +268,7 @@ if (height) {
   console.log('Height is UNDEFINED');
 }
 
-
+//13th dec
 // Equality Operators
 const age = '18';
 if (age === 18) console.log('You just became an adult :D (strict)');
