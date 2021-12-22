@@ -291,7 +291,7 @@ if (favourite === 23) {
 
 if (favourite !== 23) console.log('Why not 23?');
 
-//14-16 dec-
+//14-16 dec--
 // Logical Operators
 const hasDriversLicense = true; 
 const hasGoodVision = true; 
