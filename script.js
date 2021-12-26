@@ -324,7 +324,7 @@ if (scoreDolphins > scoreKoalas && scoreDolphins >= 100) {
   console.log('No one wins the trophy 😭');
 }
 
-////////////////////////////////////
+
 // The switch Statement
 const day = 'friday';
 
@@ -379,10 +379,9 @@ if (23 > 10) {
 const me = 'Jonas';
 console.log(`I'm ${2037 - 1991} years old ${me}`);
 
-////////////////////////////////////
+
 // The Conditional (Ternary) Operator
 const age = 23;
-// age >= 18 ? console.log('I like to drink wine 🍷') : console.log('I like to drink water 💧');
 
 const drink = age >= 18 ? 'wine 🍷' : 'water 💧';
 console.log(drink);
