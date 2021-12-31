@@ -329,7 +329,7 @@ if (scoreDolphins > scoreKoalas && scoreDolphins >= 100) {
 const day = 'friday';
 
 switch (day) {
-  case 'monday': // day === 'monday'
+  case 'monday': 
     console.log('Plan course structure');
     console.log('Go to coding meetup');
     break;
@@ -380,7 +380,7 @@ const me = 'Jonas';
 console.log(`I'm ${2037 - 1991} years old ${me}`);
 
 
-// The Conditional (Ternary) Operatorss
+// The Conditional (Ternary) Operators
 const age = 23;
 
 const drink = age >= 18 ? 'wine 🍷' : 'water 💧';
